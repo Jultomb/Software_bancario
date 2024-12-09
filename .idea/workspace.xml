@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06b6525d-de15-4295-80f8-2cae11589b83" name="Changes" comment="Inicio de proyecto">
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/TipoDeCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06b6525d-de15-4295-80f8-2cae11589b83" name="Changes" comment="Estructuración inicial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733702915962</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Estructuración inicial">
+      <option name="closed" value="true" />
+      <created>1733706016425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733706016425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio de proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicio de proyecto" />
+    <MESSAGE value="Estructuración inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructuración inicial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
