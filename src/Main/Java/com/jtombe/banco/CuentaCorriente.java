@@ -14,17 +14,6 @@ public class CuentaCorriente extends CuentaBancaria{
     }
 
     @Override
-    public void ingresarDinero(double cantidad) {
-        super.ingresarDinero(cantidad);
-        saldo += cantidad;
-    }
-
-    @Override
-    public void obtenerSaldo() {
-        super.obtenerSaldo();
-    }
-
-    @Override
     public void informaciónSobreCondicionesLegales() {
         System.out.println("Condiciones legales de la cuenta corriente \n De acuerdo al contrato firmado, la comisión por retiro es de"+comisión*100+" % del valor retirado");
     }

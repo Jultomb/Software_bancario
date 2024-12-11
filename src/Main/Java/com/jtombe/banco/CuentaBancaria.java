@@ -28,8 +28,8 @@ public abstract class CuentaBancaria {
         saldo += cantidad;
     }
 
-    public void obtenerSaldo(){
-        System.out.println("El saldo actual que hay en su cuenta es $"+saldo+".");
+    public double obtenerSaldo(){
+        return saldo;
     }
 
 public abstract void informaciónSobreCondicionesLegales();

@@ -1,5 +1,5 @@
 package com.jtombe.banco;
 
 public enum TipoDeCuenta {
-    AHORROS, CORRIENTE, NÓMINA, HIPOTECA, EDUCATIVA,
+    AHORROS, CORRIENTE, NÓMINA, EDUCATIVA,
 }
