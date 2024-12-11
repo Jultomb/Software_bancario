@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06b6525d-de15-4295-80f8-2cae11589b83" name="Changes" comment="Tipos de cuentas existentes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/cajero/CajeroAutomático.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaBancaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaDeAhorros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaAhorros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaEducativa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaEducativa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaNómina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/CuentaNómina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/TipoDeCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/jtombe/banco/TipoDeCuenta.java" afterDir="false" />
-    </list>
+    <list default="true" id="06b6525d-de15-4295-80f8-2cae11589b83" name="Changes" comment="Cajero automático" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733794394020</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Cajero automático">
+      <option name="closed" value="true" />
+      <created>1733888611965</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733888611965</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +147,8 @@
     <MESSAGE value="Inicio de proyecto" />
     <MESSAGE value="Estructuración inicial" />
     <MESSAGE value="Tipos de cuentas existentes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipos de cuentas existentes" />
+    <MESSAGE value="Cajero automático" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cajero automático" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
