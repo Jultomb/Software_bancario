@@ -10,7 +10,7 @@ public class CuentaAhorros extends CuentaBancaria{
     @Override
     public void sacarDinero(double cantidad) {
         super.sacarDinero(cantidad);
-        saldo -= cantidad - (cantidad*comisión);
+        saldo -= cantidad*comisión;
     }
 
     @Override

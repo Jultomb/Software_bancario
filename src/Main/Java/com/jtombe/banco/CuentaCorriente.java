@@ -1,7 +1,7 @@
 package com.jtombe.banco;
 
 public class CuentaCorriente extends CuentaBancaria{
-    private final double comisión = 0.2;
+    private final double comisión = 0.5;
 
     public CuentaCorriente(String titular, TipoDeCuenta tipoDeCuenta, double saldo) {
         super(titular, tipoDeCuenta, saldo);

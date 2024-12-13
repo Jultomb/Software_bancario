@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/software_bancario.iml" filepath="$PROJECT_DIR$/software_bancario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cajero_automático.iml" filepath="$PROJECT_DIR$/cajero_automático.iml" />
     </modules>
   </component>
 </project>

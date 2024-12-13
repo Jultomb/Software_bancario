@@ -14,7 +14,7 @@ public abstract class CuentaBancaria {
 
     public void sacarDinero(double cantidad) {
         if (cantidad < 10000) {
-            System.out.println("El valor mínimo a retirar es de $10.000. $ " + cantidad + " es inferior. Ingrese un valor válido");
+        //    System.out.println("El valor mínimo a retirar es de $10.000. $ " + cantidad + " es inferior. Ingrese un valor válido");
             return;
         }
         saldo -= cantidad;
@@ -33,4 +33,6 @@ public abstract class CuentaBancaria {
     }
 
 public abstract void informaciónSobreCondicionesLegales();
+
+
 }
